@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A frontend developer with some basic knowledge of HTML, CSS, and JavaScript from Minnesota</h3>
 
-- 🔭 I’m currently working on [Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react.git)
+- 🔭 I’m currently working on [Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react)
 
 - 🌱 I’m currently learning **React and React Router**
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Dan-alemayehu](https://github.com/Dan-alemayehu)
 
 - 💬 Ask me about **HTML, CSS, and JavaScript.....and video games and sports**
-
-- 📫 How to reach me **alemayehu.2810@gmail.com**
 
 - ⚡ Fun fact **A can of SPAM is opened every four seconds.**
 
