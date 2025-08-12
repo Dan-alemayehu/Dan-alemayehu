@@ -1,22 +1,68 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A frontend developer with some basic knowledge of HTML, CSS, and JavaScript from Minnesota</h3>
+<!-- Banner (Optional: You can design one in Canva or use an image generator) -->
+![Header](https://via.placeholder.com/1000x250.png?text=Daniel+Alemayehu+%7C+Java+%26+Spring+Boot+Developer)
 
-- 🔭 I’m currently working on [Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react)
+# Hi 👋, I'm Daniel
 
-- 🌱 I’m currently learning **React and React Router**
+🚀 **Java & Spring Boot Developer | Microservices | Cloud & Distributed Systems**  
+💻 Passionate about building scalable, high-performance backend systems and clean, maintainable code.  
+📍 Saint Paul, MN | 📧 alemayehu.2810@gmail.com  
 
-- 👯 I’ve previously worked on on [Mock Restaurant Website](https://github.com/Dan-alemayehu/FSD-restaurant-project.git)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dan-alemayehu](https://github.com/Dan-alemayehu)
+## 💡 About Me
+- 🔭 Currently working on **[Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react)**  
+- 🌱 Learning **React, Spring Cloud, and Distributed Systems**  
+- 💼 Experienced in **Java, Spring Boot, MySQL, Kafka, AWS, Docker, Redis**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-alemayehu)  
+- ⚡ Fun fact: *A can of SPAM is opened every four seconds* 🥫
 
-- 💬 Ask me about **HTML, CSS, and JavaScript.....and video games and sports**
+---
 
-- ⚡ Fun fact **A can of SPAM is opened every four seconds.**
+## 🏆 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### [Vehicle Management REST API](https://github.com/Dan-alemayehu/que914)
+A Spring Boot microservice for managing vehicles, makes, and models with CRUD operations, Redis caching, and Kafka event-driven communication.  
+**Tech Stack:** Java, Spring Boot, MySQL, Redis, Kafka, Docker  
+[🔗 GitHub Repo](https://github.com/Dan-alemayehu/que914) | 🌐 Live Demo (coming soon)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### [Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react)
+A full-stack app to log and analyze daily moods using React frontend and Spring Boot backend.  
+**Tech Stack:** React, Java, Spring Boot, MySQL  
+[🔗 GitHub Repo](https://github.com/Dan-alemayehu/mood-tracker-react) | 🌐 Live Demo (coming soon)
+
+---
+
+### [Responsive Restaurant Website](https://github.com/Dan-alemayehu/Responsive-Restaurant-Project-1)
+A responsive, mobile-first restaurant website showcasing menu and reservation features.  
+**Tech Stack:** HTML, CSS, JavaScript  
+[🔗 GitHub Repo](https://github.com/Dan-alemayehu/Responsive-Restaurant-Project-1) | [🌐 Live Demo](https://dan-alemayehu.github.io/Responsive-Restaurant-Project-1/)
+
+---
+
+## ⚙️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 📊 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-alemayehu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-alemayehu&layout=compact&theme=radical)  
+
+---
+
+## 🌎 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alemayehu)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dan-alemayehu)
 
