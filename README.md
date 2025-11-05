@@ -20,8 +20,8 @@
 
 ## 🏆 Featured Projects
 
-### [Vehicle Management REST API](https://github.com/Dan-alemayehu/que914)
-A Spring Boot microservice for managing vehicles, makes, and models with CRUD operations, Redis caching, and Kafka event-driven communication.  
+### [Insurance Persoanl Data Service](https://github.com/Dan-alemayehu/que914)
+A Spring Boot microservice for managing personal information for customers of an insurance comapny with CRUD operations, Redis caching, and Kafka event-driven communication.  
 **Tech Stack:** Java, Spring Boot, MySQL, Redis, Kafka, Docker  
 [🔗 GitHub Repo](https://github.com/Dan-alemayehu/que914) | 🌐 Live Demo (coming soon)
 
