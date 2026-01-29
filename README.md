@@ -10,7 +10,7 @@
 ---
 
 ## 💡 About Me
-- 🔭 Currently working on **[Mood Tracker App](https://github.com/Dan-alemayehu/mood-tracker-react)**  
+- 🔭 Currently working on **[Event Driven Notifications Service](https://github.com/Dan-alemayehu/Event_Driven_Notifications)**  
 - 🌱 Learning **React, Spring Cloud, and Distributed Systems**  
 - 💼 Experienced in **Java, Spring Boot, MySQL, Kafka, AWS, Docker, Redis**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-alemayehu)  
